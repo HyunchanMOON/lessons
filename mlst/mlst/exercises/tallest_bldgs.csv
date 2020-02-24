@@ -1,0 +1,201 @@
+BuildingName,City,Country,Height_ft,Year,Stories
+Burj Dubai ,Dubai,UAE,2684,2009,162
+Taipei 101 ,Taipei,Taiwan,1671,2004,101
+Shanghai World Financial Center,Shanghai,China,1614,2008,101
+Petronas Tower 1 ,Kuala Lumpur,Malaysia,1483,1998,88
+Petronas Tower 2 ,Kuala Lumpur,Malaysia,1483,1998,88
+Nanjing Greenland Financial Center,Nanjing,China,1476,2009,66
+Sears Tower ,Chicago,USA,1451,1974,108
+Guangzhou West Tower ,Guangzhou,China,1435,2009,103
+Jin Mao Tower ,Shanghai,China,1380,1999,88
+Two International Finance Centre,Hong Kong,China,1362,2003,88
+Trump International Hotel & Tower,Chicago,USA,1362,2009,96
+CITIC Plaza ,Guangzhou,China,1283,1997,80
+Shun Hing Square ,Shenzhen,China,1260,1996,69
+Empire State Building ,New York City,USA,1250,1931,102
+Central Plaza ,Hong Kong,China,1227,1992,78
+Bank of China Tower ,Hong Kong,China,1205,1990,70
+Bank of America Tower ,New York City,USA,1200,2009,54
+Almas Tower ,Dubai,UAE,1191,2009,68
+Emirates Office Tower ,Dubai,UAE,1163,2000,54
+Tuntex Sky Tower ,Kaohsiung,Taiwan,1140,1997,85
+Aon Center ,Chicago,USA,1136,1973,83
+The Center ,Hong Kong,China,1135,1998,73
+John Hancock Center ,Chicago,USA,1127,1969,100
+Rose Tower ,Dubai,UAE,1093,2007,72
+Shimao International Plaza,Shanghai,China,1093,2006,60
+Minsheng Bank Building ,Wuhan,China,1087,2007,68
+Ryugyong Hotel ,Pyongyang,North Korea,1083,NaN,105
+China World Trade Center Tower III,Beijing,China,1083,2009,74
+The Index ,Dubai,UAE,1076,2009,80
+Q1 Tower ,Gold Coast City,Australia,1058,2005,78
+Burj Al Arab ,Dubai,UAE,1053,1999,60
+Chrysler Building ,New York City,USA,1046,1930,77
+Nina Tower ,Hong Kong,China,1046,2007,80
+New York Times Tower ,New York City,USA,1046,2007,52
+Bank of America Plaza ,Atlanta,USA,1023,1992,55
+US Bank Tower ,Los Angeles,USA,1018,1989,73
+Menara Telekom ,Kuala Lumpur,Malaysia,1017,2001,55
+Jumeirah Emirates Towers Hotel,Dubai,UAE,1014,2000,56
+AT&T Corporate Center ,Chicago,USA,1007,1989,60
+The Address  Downtown Burj Dubai,Dubai,UAE,1004,2008,63
+JPMorgan Chase Tower ,Houston,USA,1002,1982,75
+Baiyoke Tower II ,Bangkok,Thailand,997,1997,85
+Two Prudential Plaza ,Chicago,USA,995,1990,64
+Wells Fargo Plaza ,Houston,USA,992,1983,71
+Kingdom Centre ,Riyadh,Saudi Arabia,992,2002,41
+Aspire Tower ,Doha,Qatar,984,2007,36
+Arraya 2 ,Kuwait City,Kuwait,984,2009,56
+One Island East Centre ,Hong Kong,China,979,2008,69
+First Bank Tower ,Toronto,Canada,978,1976,72
+Shanghai Wheelock Square ,Shanghai,China,978,2009,58
+Eureka Tower ,Melbourne,Australia,975,2006,91
+Comcast Center ,Philadelphia,USA,973,2008,57
+Yokohama Landmark Tower ,Yokohama,Japan,972,1993,73
+Emirates Crown ,Dubai,UAE,971,2008,63
+311 South Wacker ,Chicago,USA,961,1990,65
+SEG Plaza ,Shenzhen,China,957,2000,70
+American International Building,New York City,USA,952,1932,66
+Key Tower ,Cleveland,USA,947,1991,57
+Plaza 66 ,Shanghai,China,945,2001,66
+One Liberty Place ,Philadelphia,USA,945,1987,61
+Columbia Center ,Seattle,USA,937,1985,76
+Millennium Tower ,Dubai,UAE,935,2006,60
+Tomorrow Square ,Shanghai,China,934,2003,55
+Chongqing World Trade Center,Chongqing,China,929,2005,60
+Cheung Kong Centre ,Hong Kong,China,928,1999,62
+The Trump Building ,New York City,USA,927,1930,70
+Bank of America Plaza ,Dallas,USA,921,1985,72
+Republic Plaza ,Singapore,Singapore,919,1996,66
+OUB Centre ,Singapore,Singapore,919,1988,63
+UOB Plaza One ,Singapore,Singapore,919,1992,66
+Citigroup Center ,New York City,USA,915,1977,59
+Hong Kong New World Tower ,Shanghai,China,913,2002,61
+Diwang International Commerce Center,Nanning,China,906,2006,54
+Scotia Tower ,Toronto,Canada,902,1988,68
+Williams Tower ,Houston,USA,901,1983,64
+Moscow ,Moscow,Russia,900,2009,73
+Wuhan World Trade Tower ,Wuhan,China,896,1998,58
+Renaissance Tower ,Dallas,USA,886,1974,56
+The Cullinan I ,Hong Kong,China,886,2008,68
+The Cullinan II ,Hong Kong,China,886,2008,68
+China International Center Tower B,Guangzhou,China,884,2007,62
+Dapeng International Plaza,Guangzhou,China,884,NaN,56
+One Lujiazui ,Shanghai,China,883,2008,47
+21st Century Tower ,Dubai,UAE,883,2003,55
+Naberezhnaya Tower C ,Moscow,Russia,881,2007,61
+Al Faisaliyah Center ,Riyadh,Saudi Arabia,876,2000,30
+900 North Michigan ,Chicago,USA,871,1989,66
+Bank of America Corporate Center,Charlotte,USA,871,1992,60
+SunTrust Plaza ,Atlanta,USA,871,1992,60
+Al Kazim Tower 1 ,Dubai,UAE,869,2008,53
+Al Kazim Tower 2 ,Dubai,UAE,869,2008,53
+Bocom Financial Towers ,Shanghai,China,869,2002,52
+120 Collins Street ,Melbourne,Australia,869,1991,52
+Triumph-Palace ,Moscow,Russia,866,2005,54
+Tower Palace Three Tower G,Seoul,South Korea,865,2004,73
+Trump World Tower ,New York City,USA,861,2001,72
+Shenzhen Special Zone Press Tower,Shenzhen,China,860,1998,48
+Water Tower Place ,Chicago,USA,859,1976,74
+Grand Gateway Shanghai I ,Shanghai,China,859,2005,52
+Grand Gateway Shanghai II ,Shanghai,China,859,2005,52
+Aon Center ,Los Angeles,USA,858,1973,62
+Grand Lisboa ,Macao,China,856,2008,47
+Sapphire ,Istanbul,Turkey,856,2009,54
+Hotel Panorama ,Hong Kong,China,856,2007,64
+Canada Trust Tower ,Toronto,Canada,856,1990,53
+101 Collins Street ,Melbourne,Australia,853,1991,50
+Fortune Plaza Office Building 1,Beijing,China,853,2008,63
+The Vision Tower ,Dubai,UAE,853,2009,60
+Dual Tower 1 ,Manama,Bahrain,853,2007,53
+Dual Tower 2 ,Manama,Bahrain,853,2007,53
+Post & Telecommunication Hub,Guangzhou,China,853,2003,66
+Transamerica Pyramid ,San Francisco,USA,853,1972,48
+Chase Tower ,Chicago,USA,850,1969,60
+GE Building ,New York City,USA,850,1933,69
+Commerzbank Tower ,Frankfurt am Main,Germany,850,1997,58
+PBCOM Tower ,Makati,Philippines,848,2000,55
+Two Liberty Place ,Philadelphia,USA,848,1990,58
+Lanko·Grand Hyatt Hotel ,Chongqing,China,846,2004,60
+Park Tower ,Chicago,USA,844,2000,67
+MesseTurm ,Frankfurt am Main,Germany,842,1990,55
+U.S. Steel Tower ,Pittsburgh,USA,841,1970,64
+Sorrento 1 ,Hong Kong,China,841,2003,75
+Emirates Marina Serviced Apartments & Spa,Dubai,UAE,840,2007,59
+Mok-dong Hyperion I Tower A,Seoul,South Korea,840,2003,69
+Rinku Gate Tower Building ,Izumisano,Japan,840,1996,56
+New Century Plaza Tower A ,Nanjing,China,837,2006,52
+Langham Place Office Tower,Hong Kong,China,837,2004,59
+Capital Tower ,Singapore,Singapore,830,2000,52
+Highcliff ,Hong Kong,China,828,2003,72
+Bank of Shanghai Headquarters,Shanghai,China,827,2005,46
+Osaka World Trade Center ,Osaka,Japan,827,1995,55
+The Harbourside ,Hong Kong,China,824,2003,73
+Rialto Towers ,Melbourne,Australia,824,1986,63
+Jiali Plaza ,Wuhan,China,823,1997,61
+Chelsea Tower ,Dubai,UAE,820,2005,49
+Wisma 46 ,Jakarta,Indonesia,820,1996,50
+Park Tower ,Beijing,China,820,2007,63
+One Atlantic Center ,Atlanta,USA,820,1987,50
+Torre Caja Madrid ,Madrid,Spain,820,2008,45
+KLI 63 Building ,Seoul,South Korea,817,1985,60
+Central Park ,Perth,Australia,817,1992,52
+Torre de Cristal ,Madrid,Spain,817,2008,45
+CitySpire Center ,New York City,USA,814,1987,75
+Hangzhou No.2 Telecom Hub ,Hangzhou,China,814,2003,41
+Mid Town Tower ,Tokyo,Japan,813,2007,54
+One Chase Manhattan Plaza ,New York City,USA,813,1961,60
+State Tower ,Bangkok,Thailand,811,2001,68
+Chase Tower ,Indianapolis,USA,811,1990,49
+Midland Square ,Nagoya,Japan,810,2006,40
+4 Times Square ,New York City,USA,809,1999,48
+MetLife Building ,New York City,USA,808,1963,59
+Bloomberg Tower ,New York City,USA,806,2005,54
+One Raffles Quay North Tower,Singapore,Singapore,804,2006,50
+Al Fattan Tower ,Dubai,UAE,804,2006,51
+JR Central Office Tower ,Nagoya,Japan,804,2000,51
+Marina Bay Tower ,Singapore,Singapore,804,2008,70
+Oasis Beach Tower ,Dubai,UAE,804,2006,51
+Shin Kong Life Tower ,Taipei,Taiwan,803,1993,51
+City Gate Ramat Gan ,Ramat Gan,Israel,801,2001,68
+Chifley Tower ,Sydney,Australia,801,1992,50
+Arenco Tower ,Dubai,UAE,800,2008,46
+Menara Maybank ,Kuala Lumpur,Malaysia,799,1988,50
+Tokyo City Hall Tower I,Tokyo,Japan,799,1991,48
+R&F Centre ,Guangzhou,China,797,2007,54
+Citigroup Centre ,Sydney,Australia,797,2000,50
+Dalian Futures Square 1 ,Dalian,China,797,2008,53
+Dalian Futures Square 2 ,Dalian,China,797,2008,53
+The Tower ,Dubai,UAE,796,2002,54
+Zapad ,Moscow,Russia,795,2008,62
+Dalian World Trade Center ,Dalian,China,794,2000,50
+Mellon Bank Center ,Philadelphia,USA,792,1990,54
+Woolworth Building ,New York City,USA,792,1913,57
+IDS Tower ,Minneapolis,USA,792,1973,55
+Maxdo Centre ,Shanghai,China,792,2002,55
+Bank of China Mansion ,Qingdao,China,791,1999,54
+Hancock Place ,Boston,USA,790,1976,60
+Shenzhen Broadcasting Center Building,Shenzhen,China,790,2001,48
+Four Seasons Hotel & Tower,Miami,USA,789,2003,64
+Manulife Plaza ,Hong Kong,China,789,1998,52
+Panglin Plaza ,Shenzhen,China,787,1999,57
+Bahrain World Trade Centre 1,Manama,Bahrain,787,2008,50
+Bahrain World Trade Centre 2,Manama,Bahrain,787,2008,50
+Moscow State University ,Moscow,Russia,787,1953,36
+NTT DoCoMo Yoyogi Building,Tokyo,Japan,787,2000,28
+Sunshine 60 Building ,Tokyo,Japan,787,1978,60
+Deutsche Bank Place ,Sydney,Australia,787,2005,39
+Comerica Bank Tower ,Dallas,USA,787,1987,60
+Mok-dong Hyperion I Tower B,Seoul,South Korea,785,2003,63
+300 North LaSalle ,Chicago,USA,785,2009,60
+Beijing TV Centre ,Beijing,China,784,2006,41
+Commerce Court West ,Toronto,Canada,784,1972,57
+Roppongi Hills Mori Tower ,Tokyo,Japan,781,2003,54
+30 Hudson Street ,Jersey City,USA,781,2004,42
+Cloud Nine ,Shanghai,China,781,2006,58
+New World Center ,Shenzhen,China,781,2006,53
+Tianjin Xinda Plaza ,Tianjin,China,781,2004,51
+Vista Tower ,Kuala Lumpur,Malaysia,781,1994,62
+Bank of America Center ,Houston,USA,780,1983,56
+555 California Street ,San Francisco,USA,779,1969,52
+One Worldwide Plaza ,New York City,USA,778,1989,50
